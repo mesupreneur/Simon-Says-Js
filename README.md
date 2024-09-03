@@ -1,0 +1,1 @@
+A simple and engaging Simon Says game built with JavaScript, where players test their memory by following an increasingly complex sequence of colors. Perfect for a quick challenge and fun coding practice!
